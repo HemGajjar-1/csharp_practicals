@@ -1,0 +1,14 @@
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-6\Event_Example\Event_Example\bin\Debug\net8.0\Event_Example.exe
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-6\Event_Example\Event_Example\bin\Debug\net8.0\Event_Example.deps.json
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-6\Event_Example\Event_Example\bin\Debug\net8.0\Event_Example.runtimeconfig.json
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-6\Event_Example\Event_Example\bin\Debug\net8.0\Event_Example.dll
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-6\Event_Example\Event_Example\bin\Debug\net8.0\Event_Example.pdb
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-6\Event_Example\Event_Example\obj\Debug\net8.0\Event_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-6\Event_Example\Event_Example\obj\Debug\net8.0\Event_Example.AssemblyInfoInputs.cache
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-6\Event_Example\Event_Example\obj\Debug\net8.0\Event_Example.AssemblyInfo.cs
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-6\Event_Example\Event_Example\obj\Debug\net8.0\Event_Example.csproj.CoreCompileInputs.cache
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-6\Event_Example\Event_Example\obj\Debug\net8.0\Event_Example.dll
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-6\Event_Example\Event_Example\obj\Debug\net8.0\refint\Event_Example.dll
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-6\Event_Example\Event_Example\obj\Debug\net8.0\Event_Example.pdb
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-6\Event_Example\Event_Example\obj\Debug\net8.0\Event_Example.genruntimeconfig.cache
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-6\Event_Example\Event_Example\obj\Debug\net8.0\ref\Event_Example.dll

@@ -1,0 +1,14 @@
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-1\DebuggingApplication\DebuggingApplication\bin\Debug\net8.0\DebuggingApplication.exe
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-1\DebuggingApplication\DebuggingApplication\bin\Debug\net8.0\DebuggingApplication.deps.json
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-1\DebuggingApplication\DebuggingApplication\bin\Debug\net8.0\DebuggingApplication.runtimeconfig.json
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-1\DebuggingApplication\DebuggingApplication\bin\Debug\net8.0\DebuggingApplication.dll
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-1\DebuggingApplication\DebuggingApplication\bin\Debug\net8.0\DebuggingApplication.pdb
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-1\DebuggingApplication\DebuggingApplication\obj\Debug\net8.0\DebuggingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-1\DebuggingApplication\DebuggingApplication\obj\Debug\net8.0\DebuggingApplication.AssemblyInfoInputs.cache
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-1\DebuggingApplication\DebuggingApplication\obj\Debug\net8.0\DebuggingApplication.AssemblyInfo.cs
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-1\DebuggingApplication\DebuggingApplication\obj\Debug\net8.0\DebuggingApplication.csproj.CoreCompileInputs.cache
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-1\DebuggingApplication\DebuggingApplication\obj\Debug\net8.0\DebuggingApplication.dll
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-1\DebuggingApplication\DebuggingApplication\obj\Debug\net8.0\refint\DebuggingApplication.dll
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-1\DebuggingApplication\DebuggingApplication\obj\Debug\net8.0\DebuggingApplication.pdb
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-1\DebuggingApplication\DebuggingApplication\obj\Debug\net8.0\DebuggingApplication.genruntimeconfig.cache
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-1\DebuggingApplication\DebuggingApplication\obj\Debug\net8.0\ref\DebuggingApplication.dll

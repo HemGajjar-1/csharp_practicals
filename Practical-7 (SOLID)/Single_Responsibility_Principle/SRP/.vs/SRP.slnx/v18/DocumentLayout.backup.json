@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Single_Responsibility_Principle\\SRP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13C61D2C-2D67-40B9-9070-2BE114BF138E}|SRP\\SRP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\single_responsibility_principle\\srp\\srp\\services\\transcriptgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C61D2C-2D67-40B9-9070-2BE114BF138E}|SRP\\SRP.csproj|solutionrelative:srp\\services\\transcriptgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C61D2C-2D67-40B9-9070-2BE114BF138E}|SRP\\SRP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\single_responsibility_principle\\srp\\srp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C61D2C-2D67-40B9-9070-2BE114BF138E}|SRP\\SRP.csproj|solutionrelative:srp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C61D2C-2D67-40B9-9070-2BE114BF138E}|SRP\\SRP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\single_responsibility_principle\\srp\\srp\\myclasses\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C61D2C-2D67-40B9-9070-2BE114BF138E}|SRP\\SRP.csproj|solutionrelative:srp\\myclasses\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C61D2C-2D67-40B9-9070-2BE114BF138E}|SRP\\SRP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\single_responsibility_principle\\srp\\srp\\myclasses\\gpa_calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C61D2C-2D67-40B9-9070-2BE114BF138E}|SRP\\SRP.csproj|solutionrelative:srp\\myclasses\\gpa_calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GPA_Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Single_Responsibility_Principle\\SRP\\SRP\\MyClasses\\GPA_Calculator.cs",
+              "RelativeDocumentMoniker": "SRP\\MyClasses\\GPA_Calculator.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Single_Responsibility_Principle\\SRP\\SRP\\MyClasses\\GPA_Calculator.cs",
+              "RelativeToolTip": "SRP\\MyClasses\\GPA_Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T06:32:48.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Single_Responsibility_Principle\\SRP\\SRP\\MyClasses\\Student.cs",
+              "RelativeDocumentMoniker": "SRP\\MyClasses\\Student.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Single_Responsibility_Principle\\SRP\\SRP\\MyClasses\\Student.cs",
+              "RelativeToolTip": "SRP\\MyClasses\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T06:30:32.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Single_Responsibility_Principle\\SRP\\SRP\\Program.cs",
+              "RelativeDocumentMoniker": "SRP\\Program.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Single_Responsibility_Principle\\SRP\\SRP\\Program.cs",
+              "RelativeToolTip": "SRP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T06:29:42.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TranscriptGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Single_Responsibility_Principle\\SRP\\SRP\\Services\\TranscriptGenerator.cs",
+              "RelativeDocumentMoniker": "SRP\\Services\\TranscriptGenerator.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Single_Responsibility_Principle\\SRP\\SRP\\Services\\TranscriptGenerator.cs",
+              "RelativeToolTip": "SRP\\Services\\TranscriptGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T06:33:37.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

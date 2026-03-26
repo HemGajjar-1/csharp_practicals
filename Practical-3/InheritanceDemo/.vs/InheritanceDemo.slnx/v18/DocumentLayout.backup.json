@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-3\\InheritanceDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3648F6E-F30D-F7B0-0DDF-D3D89350BFAC}|InheritanceDemo\\InheritanceDemo.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-3\\inheritancedemo\\inheritancedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3648F6E-F30D-F7B0-0DDF-D3D89350BFAC}|InheritanceDemo\\InheritanceDemo.csproj|solutionrelative:inheritancedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3648F6E-F30D-F7B0-0DDF-D3D89350BFAC}|InheritanceDemo\\InheritanceDemo.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-3\\inheritancedemo\\inheritancedemo\\myclasses\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3648F6E-F30D-F7B0-0DDF-D3D89350BFAC}|InheritanceDemo\\InheritanceDemo.csproj|solutionrelative:inheritancedemo\\myclasses\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3648F6E-F30D-F7B0-0DDF-D3D89350BFAC}|InheritanceDemo\\InheritanceDemo.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-3\\inheritancedemo\\inheritancedemo\\myclasses\\sponsor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3648F6E-F30D-F7B0-0DDF-D3D89350BFAC}|InheritanceDemo\\InheritanceDemo.csproj|solutionrelative:inheritancedemo\\myclasses\\sponsor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-3\\InheritanceDemo\\InheritanceDemo\\Program.cs",
+              "RelativeDocumentMoniker": "InheritanceDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-3\\InheritanceDemo\\InheritanceDemo\\Program.cs",
+              "RelativeToolTip": "InheritanceDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T05:26:38.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-3\\InheritanceDemo\\InheritanceDemo\\MyClasses\\Team.cs",
+              "RelativeDocumentMoniker": "InheritanceDemo\\MyClasses\\Team.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-3\\InheritanceDemo\\InheritanceDemo\\MyClasses\\Team.cs",
+              "RelativeToolTip": "InheritanceDemo\\MyClasses\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T05:26:37.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sponsor.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-3\\InheritanceDemo\\InheritanceDemo\\MyClasses\\Sponsor.cs",
+              "RelativeDocumentMoniker": "InheritanceDemo\\MyClasses\\Sponsor.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-3\\InheritanceDemo\\InheritanceDemo\\MyClasses\\Sponsor.cs",
+              "RelativeToolTip": "InheritanceDemo\\MyClasses\\Sponsor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T05:26:36.548Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

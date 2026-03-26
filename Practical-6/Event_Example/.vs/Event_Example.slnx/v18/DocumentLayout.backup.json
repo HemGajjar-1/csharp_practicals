@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-6\\Event_Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE1E391-71D3-3C97-6051-530A83A884C2}|Event_Example\\Event_Example.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-6\\event_example\\event_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE1E391-71D3-3C97-6051-530A83A884C2}|Event_Example\\Event_Example.csproj|solutionrelative:event_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE1E391-71D3-3C97-6051-530A83A884C2}|Event_Example\\Event_Example.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-6\\event_example\\event_example\\businesslogic\\processbusinesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE1E391-71D3-3C97-6051-530A83A884C2}|Event_Example\\Event_Example.csproj|solutionrelative:event_example\\businesslogic\\processbusinesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProcessBusinessLogic.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-6\\Event_Example\\Event_Example\\BusinessLogic\\ProcessBusinessLogic.cs",
+              "RelativeDocumentMoniker": "Event_Example\\BusinessLogic\\ProcessBusinessLogic.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-6\\Event_Example\\Event_Example\\BusinessLogic\\ProcessBusinessLogic.cs",
+              "RelativeToolTip": "Event_Example\\BusinessLogic\\ProcessBusinessLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T14:25:59.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-6\\Event_Example\\Event_Example\\Program.cs",
+              "RelativeDocumentMoniker": "Event_Example\\Program.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-6\\Event_Example\\Event_Example\\Program.cs",
+              "RelativeToolTip": "Event_Example\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T14:13:00.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

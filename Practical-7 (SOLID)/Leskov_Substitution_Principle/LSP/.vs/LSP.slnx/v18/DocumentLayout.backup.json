@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Leskov_Substitution_Principle\\LSP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63E87D0F-A660-F9C8-9083-4D197151A166}|LSP\\LSP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\leskov_substitution_principle\\lsp\\lsp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E87D0F-A660-F9C8-9083-4D197151A166}|LSP\\LSP.csproj|solutionrelative:lsp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E87D0F-A660-F9C8-9083-4D197151A166}|LSP\\LSP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\leskov_substitution_principle\\lsp\\lsp\\services\\refundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E87D0F-A660-F9C8-9083-4D197151A166}|LSP\\LSP.csproj|solutionrelative:lsp\\services\\refundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E87D0F-A660-F9C8-9083-4D197151A166}|LSP\\LSP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\leskov_substitution_principle\\lsp\\lsp\\paymenttypes\\promocodeprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E87D0F-A660-F9C8-9083-4D197151A166}|LSP\\LSP.csproj|solutionrelative:lsp\\paymenttypes\\promocodeprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E87D0F-A660-F9C8-9083-4D197151A166}|LSP\\LSP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\leskov_substitution_principle\\lsp\\lsp\\services\\checkoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E87D0F-A660-F9C8-9083-4D197151A166}|LSP\\LSP.csproj|solutionrelative:lsp\\services\\checkoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E87D0F-A660-F9C8-9083-4D197151A166}|LSP\\LSP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\leskov_substitution_principle\\lsp\\lsp\\paymenttypes\\paypalprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E87D0F-A660-F9C8-9083-4D197151A166}|LSP\\LSP.csproj|solutionrelative:lsp\\paymenttypes\\paypalprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E87D0F-A660-F9C8-9083-4D197151A166}|LSP\\LSP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\leskov_substitution_principle\\lsp\\lsp\\paymenttypes\\creditcardprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E87D0F-A660-F9C8-9083-4D197151A166}|LSP\\LSP.csproj|solutionrelative:lsp\\paymenttypes\\creditcardprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E87D0F-A660-F9C8-9083-4D197151A166}|LSP\\LSP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\leskov_substitution_principle\\lsp\\lsp\\interfaces\\irefundable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E87D0F-A660-F9C8-9083-4D197151A166}|LSP\\LSP.csproj|solutionrelative:lsp\\interfaces\\irefundable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E87D0F-A660-F9C8-9083-4D197151A166}|LSP\\LSP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\leskov_substitution_principle\\lsp\\lsp\\interfaces\\ichargeable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E87D0F-A660-F9C8-9083-4D197151A166}|LSP\\LSP.csproj|solutionrelative:lsp\\interfaces\\ichargeable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PromoCodeProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Leskov_Substitution_Principle\\LSP\\LSP\\PaymentTypes\\PromoCodeProcessor.cs",
+              "RelativeDocumentMoniker": "LSP\\PaymentTypes\\PromoCodeProcessor.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Leskov_Substitution_Principle\\LSP\\LSP\\PaymentTypes\\PromoCodeProcessor.cs",
+              "RelativeToolTip": "LSP\\PaymentTypes\\PromoCodeProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:07:57.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckoutService.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Leskov_Substitution_Principle\\LSP\\LSP\\Services\\CheckoutService.cs",
+              "RelativeDocumentMoniker": "LSP\\Services\\CheckoutService.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Leskov_Substitution_Principle\\LSP\\LSP\\Services\\CheckoutService.cs",
+              "RelativeToolTip": "LSP\\Services\\CheckoutService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:00:42.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RefundService.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Leskov_Substitution_Principle\\LSP\\LSP\\Services\\RefundService.cs",
+              "RelativeDocumentMoniker": "LSP\\Services\\RefundService.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Leskov_Substitution_Principle\\LSP\\LSP\\Services\\RefundService.cs",
+              "RelativeToolTip": "LSP\\Services\\RefundService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:01:57.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Leskov_Substitution_Principle\\LSP\\LSP\\Program.cs",
+              "RelativeDocumentMoniker": "LSP\\Program.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Leskov_Substitution_Principle\\LSP\\LSP\\Program.cs",
+              "RelativeToolTip": "LSP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T06:53:12.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PayPalProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Leskov_Substitution_Principle\\LSP\\LSP\\PaymentTypes\\PayPalProcessor.cs",
+              "RelativeDocumentMoniker": "LSP\\PaymentTypes\\PayPalProcessor.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Leskov_Substitution_Principle\\LSP\\LSP\\PaymentTypes\\PayPalProcessor.cs",
+              "RelativeToolTip": "LSP\\PaymentTypes\\PayPalProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:07:58.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreditCardProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Leskov_Substitution_Principle\\LSP\\LSP\\PaymentTypes\\CreditCardProcessor.cs",
+              "RelativeDocumentMoniker": "LSP\\PaymentTypes\\CreditCardProcessor.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Leskov_Substitution_Principle\\LSP\\LSP\\PaymentTypes\\CreditCardProcessor.cs",
+              "RelativeToolTip": "LSP\\PaymentTypes\\CreditCardProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:08:19.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRefundable.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Leskov_Substitution_Principle\\LSP\\LSP\\Interfaces\\IRefundable.cs",
+              "RelativeDocumentMoniker": "LSP\\Interfaces\\IRefundable.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Leskov_Substitution_Principle\\LSP\\LSP\\Interfaces\\IRefundable.cs",
+              "RelativeToolTip": "LSP\\Interfaces\\IRefundable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:08:18.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IChargeable.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Leskov_Substitution_Principle\\LSP\\LSP\\Interfaces\\IChargeable.cs",
+              "RelativeDocumentMoniker": "LSP\\Interfaces\\IChargeable.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Leskov_Substitution_Principle\\LSP\\LSP\\Interfaces\\IChargeable.cs",
+              "RelativeToolTip": "LSP\\Interfaces\\IChargeable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:08:16.052Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
