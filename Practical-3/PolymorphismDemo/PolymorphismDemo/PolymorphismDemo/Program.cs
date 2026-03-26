@@ -1,6 +1,4 @@
-﻿using PolymorphismDemo.MyClasses;
-
-namespace PolymorphismDemo;
+﻿namespace PolymorphismDemo;
 
 class InitialClass
 {

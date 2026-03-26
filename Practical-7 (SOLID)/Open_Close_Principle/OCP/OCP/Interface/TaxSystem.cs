@@ -1,6 +1,4 @@
-﻿using OCP.Models;
-
-namespace OCP.Interface;
+﻿namespace OCP.Interface;
 
 internal interface TaxSystem
 {

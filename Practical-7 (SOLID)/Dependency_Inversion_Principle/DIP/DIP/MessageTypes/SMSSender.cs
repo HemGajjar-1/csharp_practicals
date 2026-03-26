@@ -1,6 +1,4 @@
-﻿using DIP.Interfaces;
-
-namespace DIP.MessageTypes;
+﻿namespace DIP.MessageTypes;
 
 // SMSSender is a low level module
 internal class SMSSender : IMessageSender

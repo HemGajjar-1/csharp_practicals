@@ -12,3 +12,4 @@ C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-7 (SOLID)\Leskov_Sub
 C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-7 (SOLID)\Leskov_Substitution_Principle\LSP\LSP\obj\Debug\net8.0\LSP.pdb
 C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-7 (SOLID)\Leskov_Substitution_Principle\LSP\LSP\obj\Debug\net8.0\LSP.genruntimeconfig.cache
 C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-7 (SOLID)\Leskov_Substitution_Principle\LSP\LSP\obj\Debug\net8.0\ref\LSP.dll
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-7 (SOLID)\Leskov_Substitution_Principle\LSP\LSP\obj\Debug\net8.0\LSP.sourcelink.json

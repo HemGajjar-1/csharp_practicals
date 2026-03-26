@@ -1,6 +1,4 @@
-﻿using LSP.Interfaces;
-
-namespace LSP.Services;
+﻿namespace LSP.Services;
 
 internal class CheckoutService
 {

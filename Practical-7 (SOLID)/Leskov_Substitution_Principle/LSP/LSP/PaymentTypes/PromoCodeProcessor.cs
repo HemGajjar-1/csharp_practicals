@@ -1,6 +1,4 @@
-﻿using LSP.Interfaces;
-
-namespace LSP.PaymentTypes;
+﻿namespace LSP.PaymentTypes;
 
 internal class PromoCodeProcessor : IChargeable
 {

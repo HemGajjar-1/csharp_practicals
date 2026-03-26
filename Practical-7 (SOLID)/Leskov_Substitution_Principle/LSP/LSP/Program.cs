@@ -1,8 +1,4 @@
-﻿using LSP.Interfaces;
-using LSP.PaymentTypes;
-using LSP.Services;
-
-namespace LSP;
+﻿namespace LSP;
 
 class InitialClass
 {

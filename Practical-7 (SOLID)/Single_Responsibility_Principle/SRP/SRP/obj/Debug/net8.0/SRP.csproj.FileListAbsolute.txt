@@ -12,3 +12,4 @@ C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-7 (SOLID)\Single_Res
 C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-7 (SOLID)\Single_Responsibility_Principle\SRP\SRP\obj\Debug\net8.0\SRP.pdb
 C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-7 (SOLID)\Single_Responsibility_Principle\SRP\SRP\obj\Debug\net8.0\SRP.genruntimeconfig.cache
 C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-7 (SOLID)\Single_Responsibility_Principle\SRP\SRP\obj\Debug\net8.0\ref\SRP.dll
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-7 (SOLID)\Single_Responsibility_Principle\SRP\SRP\obj\Debug\net8.0\SRP.sourcelink.json

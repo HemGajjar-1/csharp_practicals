@@ -1,7 +1,4 @@
-﻿using OCP.Interface;
-using OCP.Models;
-
-namespace OCP.Services;
+﻿namespace OCP.Services;
 
 internal class TaxCalculator
 {

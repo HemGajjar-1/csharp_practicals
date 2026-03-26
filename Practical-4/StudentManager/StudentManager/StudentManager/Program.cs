@@ -1,7 +1,4 @@
-﻿using StudentManager.Enums;
-using StudentManager.MyClasses;
-
-namespace StudentManager;
+﻿namespace StudentManager;
 
 class InitialClass
 {

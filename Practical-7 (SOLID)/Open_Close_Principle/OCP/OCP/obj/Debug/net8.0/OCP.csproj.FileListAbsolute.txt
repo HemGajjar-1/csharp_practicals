@@ -12,3 +12,4 @@ C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-7 (SOLID)\Open_Close
 C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-7 (SOLID)\Open_Close_Principle\OCP\OCP\obj\Debug\net8.0\OCP.pdb
 C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-7 (SOLID)\Open_Close_Principle\OCP\OCP\obj\Debug\net8.0\OCP.genruntimeconfig.cache
 C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-7 (SOLID)\Open_Close_Principle\OCP\OCP\obj\Debug\net8.0\ref\OCP.dll
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-7 (SOLID)\Open_Close_Principle\OCP\OCP\obj\Debug\net8.0\OCP.sourcelink.json

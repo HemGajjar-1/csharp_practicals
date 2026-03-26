@@ -1,6 +1,4 @@
-﻿using University_Management_System.Interfaces;
-
-namespace University_Management_System.MyClasses;
+﻿namespace University_Management_System.MyClasses;
 
 // This demonstrates Inheritance and Method Overriding
 internal class Student : Person, IPayable

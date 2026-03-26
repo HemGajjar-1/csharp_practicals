@@ -1,6 +1,4 @@
-﻿using AbstractionDemo.MyClasses;
-
-namespace AbstractionDemo;
+﻿namespace AbstractionDemo;
 
 class InitialClass
 {

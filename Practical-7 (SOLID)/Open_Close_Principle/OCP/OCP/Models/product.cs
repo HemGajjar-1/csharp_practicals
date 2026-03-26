@@ -1,6 +1,4 @@
-﻿using OCP.Enums;
-
-namespace OCP.Models;
+﻿namespace OCP.Models;
 
 internal class Product
 {

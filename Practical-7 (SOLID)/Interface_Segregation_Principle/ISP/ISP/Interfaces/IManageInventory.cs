@@ -1,6 +1,4 @@
-﻿using ISP.Models;
-
-namespace ISP.Interfaces;
+﻿namespace ISP.Interfaces;
 
 internal interface IManageInventory
 {

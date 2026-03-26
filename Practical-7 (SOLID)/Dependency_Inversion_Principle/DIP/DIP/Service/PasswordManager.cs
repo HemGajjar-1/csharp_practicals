@@ -1,6 +1,4 @@
-﻿using DIP.Interfaces;
-
-namespace DIP.Service;
+﻿namespace DIP.Service;
 
 // PasswordManager is a high level module
 // Here as we can see we are not directly creating the object of class EmailSender or SMSSender but we are using the reference of 

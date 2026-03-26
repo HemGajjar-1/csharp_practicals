@@ -1,6 +1,4 @@
-﻿using SRP.MyClasses;
-
-namespace SRP.Services;
+﻿namespace SRP.Services;
 
 internal class TranscriptGenerator
 {

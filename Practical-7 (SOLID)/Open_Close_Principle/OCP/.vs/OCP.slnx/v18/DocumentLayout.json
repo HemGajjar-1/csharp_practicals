@@ -3,36 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Open_Close_Principle\\OCP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\open_close_principle\\ocp\\ocp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|solutionrelative:ocp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\open_close_principle\\ocp\\ocp\\globalfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|solutionrelative:ocp\\globalfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\open_close_principle\\ocp\\ocp\\product_types\\clothings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|solutionrelative:ocp\\product_types\\clothings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\open_close_principle\\ocp\\ocp\\product_types\\electronics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|solutionrelative:ocp\\product_types\\electronics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\open_close_principle\\ocp\\ocp\\product_types\\grocery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|solutionrelative:ocp\\product_types\\grocery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\open_close_principle\\ocp\\ocp\\services\\taxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|solutionrelative:ocp\\services\\taxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\open_close_principle\\ocp\\ocp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|solutionrelative:ocp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\open_close_principle\\ocp\\ocp\\enums\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|solutionrelative:ocp\\enums\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\open_close_principle\\ocp\\ocp\\interface\\taxsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|solutionrelative:ocp\\interface\\taxsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\open_close_principle\\ocp\\ocp\\enums\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|solutionrelative:ocp\\enums\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\open_close_principle\\ocp\\ocp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|solutionrelative:ocp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\open_close_principle\\ocp\\ocp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|solutionrelative:ocp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\open_close_principle\\ocp\\ocp\\services\\taxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|solutionrelative:ocp\\services\\taxcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\open_close_principle\\ocp\\ocp\\product_types\\grocery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|solutionrelative:ocp\\product_types\\grocery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\open_close_principle\\ocp\\ocp\\product_types\\electronics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|solutionrelative:ocp\\product_types\\electronics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\open_close_principle\\ocp\\ocp\\product_types\\clothings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA0045B-3906-C5CB-0A3B-EB6924893B85}|OCP\\OCP.csproj|solutionrelative:ocp\\product_types\\clothings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,103 +46,114 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "GlobalFile.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Open_Close_Principle\\OCP\\OCP\\GlobalFile.cs",
+              "RelativeDocumentMoniker": "OCP\\GlobalFile.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Open_Close_Principle\\OCP\\OCP\\GlobalFile.cs",
+              "RelativeToolTip": "OCP\\GlobalFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:42:40.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Clothings.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Open_Close_Principle\\OCP\\OCP\\Product_Types\\Clothings.cs",
               "RelativeDocumentMoniker": "OCP\\Product_Types\\Clothings.cs",
               "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Open_Close_Principle\\OCP\\OCP\\Product_Types\\Clothings.cs",
               "RelativeToolTip": "OCP\\Product_Types\\Clothings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T06:43:25.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T06:43:25.956Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Electronics.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Open_Close_Principle\\OCP\\OCP\\Product_Types\\Electronics.cs",
               "RelativeDocumentMoniker": "OCP\\Product_Types\\Electronics.cs",
               "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Open_Close_Principle\\OCP\\OCP\\Product_Types\\Electronics.cs",
               "RelativeToolTip": "OCP\\Product_Types\\Electronics.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T06:43:37.219Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Grocery.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Open_Close_Principle\\OCP\\OCP\\Product_Types\\Grocery.cs",
               "RelativeDocumentMoniker": "OCP\\Product_Types\\Grocery.cs",
               "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Open_Close_Principle\\OCP\\OCP\\Product_Types\\Grocery.cs",
               "RelativeToolTip": "OCP\\Product_Types\\Grocery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T06:43:47.954Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TaxCalculator.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Open_Close_Principle\\OCP\\OCP\\Services\\TaxCalculator.cs",
               "RelativeDocumentMoniker": "OCP\\Services\\TaxCalculator.cs",
               "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Open_Close_Principle\\OCP\\OCP\\Services\\TaxCalculator.cs",
               "RelativeToolTip": "OCP\\Services\\TaxCalculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T06:47:58.022Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Open_Close_Principle\\OCP\\OCP\\Program.cs",
               "RelativeDocumentMoniker": "OCP\\Program.cs",
               "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Open_Close_Principle\\OCP\\OCP\\Program.cs",
               "RelativeToolTip": "OCP\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T06:38:50.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T06:38:50.896Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "product.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Open_Close_Principle\\OCP\\OCP\\Models\\product.cs",
               "RelativeDocumentMoniker": "OCP\\Models\\product.cs",
               "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Open_Close_Principle\\OCP\\OCP\\Models\\product.cs",
               "RelativeToolTip": "OCP\\Models\\product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T06:41:41.648Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "TaxSystem.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Open_Close_Principle\\OCP\\OCP\\Interface\\TaxSystem.cs",
               "RelativeDocumentMoniker": "OCP\\Interface\\TaxSystem.cs",
               "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Open_Close_Principle\\OCP\\OCP\\Interface\\TaxSystem.cs",
               "RelativeToolTip": "OCP\\Interface\\TaxSystem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T06:40:58.72Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "ProductCategory.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Open_Close_Principle\\OCP\\OCP\\Enums\\ProductCategory.cs",
               "RelativeDocumentMoniker": "OCP\\Enums\\ProductCategory.cs",
               "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Open_Close_Principle\\OCP\\OCP\\Enums\\ProductCategory.cs",
               "RelativeToolTip": "OCP\\Enums\\ProductCategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T06:42:32.606Z"
             }

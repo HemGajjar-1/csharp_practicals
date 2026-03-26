@@ -1,6 +1,4 @@
-﻿using InheritanceDemo.MyClasses;
-
-namespace Inheritance;
+﻿namespace Inheritance;
 
 class InitialClass
 {

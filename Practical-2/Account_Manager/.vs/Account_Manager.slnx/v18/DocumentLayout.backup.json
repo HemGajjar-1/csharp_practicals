@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-2\\Account_Manager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31F04A52-2638-D367-A9FC-09A30565BF8C}|Account_Manager\\Account_Manager.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-2\\account_manager\\account_manager\\models\\customer_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31F04A52-2638-D367-A9FC-09A30565BF8C}|Account_Manager\\Account_Manager.csproj|solutionrelative:account_manager\\models\\customer_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31F04A52-2638-D367-A9FC-09A30565BF8C}|Account_Manager\\Account_Manager.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-2\\account_manager\\account_manager\\globalfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F04A52-2638-D367-A9FC-09A30565BF8C}|Account_Manager\\Account_Manager.csproj|solutionrelative:account_manager\\globalfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31F04A52-2638-D367-A9FC-09A30565BF8C}|Account_Manager\\Account_Manager.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-2\\account_manager\\account_manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31F04A52-2638-D367-A9FC-09A30565BF8C}|Account_Manager\\Account_Manager.csproj|solutionrelative:account_manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F04A52-2638-D367-A9FC-09A30565BF8C}|Account_Manager\\Account_Manager.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-2\\account_manager\\account_manager\\models\\customer_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F04A52-2638-D367-A9FC-09A30565BF8C}|Account_Manager\\Account_Manager.csproj|solutionrelative:account_manager\\models\\customer_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,15 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GlobalFile.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-2\\Account_Manager\\Account_Manager\\GlobalFile.cs",
+              "RelativeDocumentMoniker": "Account_Manager\\GlobalFile.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-2\\Account_Manager\\Account_Manager\\GlobalFile.cs",
+              "RelativeToolTip": "Account_Manager\\GlobalFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T09:07:25.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Customer_Account.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-2\\Account_Manager\\Account_Manager\\Models\\Customer_Account.cs",
               "RelativeDocumentMoniker": "Account_Manager\\Models\\Customer_Account.cs",
               "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-2\\Account_Manager\\Account_Manager\\Models\\Customer_Account.cs",
               "RelativeToolTip": "Account_Manager\\Models\\Customer_Account.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T12:08:42.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T12:08:42.753Z"
             },
             {
               "$type": "Document",
@@ -41,7 +57,7 @@
               "RelativeDocumentMoniker": "Account_Manager\\Program.cs",
               "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-2\\Account_Manager\\Account_Manager\\Program.cs",
               "RelativeToolTip": "Account_Manager\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-25T11:59:57.137Z"
             }

@@ -12,3 +12,4 @@ C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-2\Account_Manager\Ac
 C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-2\Account_Manager\Account_Manager\obj\Debug\net8.0\Account_Manager.pdb
 C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-2\Account_Manager\Account_Manager\obj\Debug\net8.0\Account_Manager.genruntimeconfig.cache
 C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-2\Account_Manager\Account_Manager\obj\Debug\net8.0\ref\Account_Manager.dll
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-2\Account_Manager\Account_Manager\obj\Debug\net8.0\Account_Manager.sourcelink.json

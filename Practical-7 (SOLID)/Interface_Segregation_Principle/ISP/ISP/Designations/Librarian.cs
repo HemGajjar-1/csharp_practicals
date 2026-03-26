@@ -1,7 +1,4 @@
-﻿using ISP.Interfaces;
-using ISP.Models;
-
-namespace ISP.Designations;
+﻿namespace ISP.Designations;
 
 internal class Librarian : IBorrowReturn, IManageInventory, ISearchable
 {

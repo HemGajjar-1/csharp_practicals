@@ -12,3 +12,4 @@ C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-4\StudentManager\Stu
 C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-4\StudentManager\StudentManager\StudentManager\obj\Debug\net8.0\StudentManager.pdb
 C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-4\StudentManager\StudentManager\StudentManager\obj\Debug\net8.0\StudentManager.genruntimeconfig.cache
 C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-4\StudentManager\StudentManager\StudentManager\obj\Debug\net8.0\ref\StudentManager.dll
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-4\StudentManager\StudentManager\StudentManager\obj\Debug\net8.0\StudentManager.sourcelink.json

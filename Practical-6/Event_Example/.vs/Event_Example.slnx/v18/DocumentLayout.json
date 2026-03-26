@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-6\\Event_Example\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FFE1E391-71D3-3C97-6051-530A83A884C2}|Event_Example\\Event_Example.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-6\\event_example\\event_example\\globalfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE1E391-71D3-3C97-6051-530A83A884C2}|Event_Example\\Event_Example.csproj|solutionrelative:event_example\\globalfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FFE1E391-71D3-3C97-6051-530A83A884C2}|Event_Example\\Event_Example.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-6\\event_example\\event_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFE1E391-71D3-3C97-6051-530A83A884C2}|Event_Example\\Event_Example.csproj|solutionrelative:event_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,32 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "GlobalFile.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-6\\Event_Example\\Event_Example\\GlobalFile.cs",
+              "RelativeDocumentMoniker": "Event_Example\\GlobalFile.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-6\\Event_Example\\Event_Example\\GlobalFile.cs",
+              "RelativeToolTip": "Event_Example\\GlobalFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:56:29.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProcessBusinessLogic.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-6\\Event_Example\\Event_Example\\BusinessLogic\\ProcessBusinessLogic.cs",
               "RelativeDocumentMoniker": "Event_Example\\BusinessLogic\\ProcessBusinessLogic.cs",
               "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-6\\Event_Example\\Event_Example\\BusinessLogic\\ProcessBusinessLogic.cs",
               "RelativeToolTip": "Event_Example\\BusinessLogic\\ProcessBusinessLogic.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-25T14:25:59.348Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-6\\Event_Example\\Event_Example\\Program.cs",
               "RelativeDocumentMoniker": "Event_Example\\Program.cs",
               "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-6\\Event_Example\\Event_Example\\Program.cs",
               "RelativeToolTip": "Event_Example\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T14:13:00.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T14:13:00.898Z"
             }
           ]
         }

@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-4\\StudentManager\\StudentManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{894A9B7B-AF83-275E-117A-A6BC0040563E}|StudentManager\\StudentManager.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-4\\studentmanager\\studentmanager\\studentmanager\\enums\\options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{894A9B7B-AF83-275E-117A-A6BC0040563E}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\enums\\options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{894A9B7B-AF83-275E-117A-A6BC0040563E}|StudentManager\\StudentManager.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-4\\studentmanager\\studentmanager\\studentmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894A9B7B-AF83-275E-117A-A6BC0040563E}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{894A9B7B-AF83-275E-117A-A6BC0040563E}|StudentManager\\StudentManager.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-4\\studentmanager\\studentmanager\\studentmanager\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{894A9B7B-AF83-275E-117A-A6BC0040563E}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{894A9B7B-AF83-275E-117A-A6BC0040563E}|StudentManager\\StudentManager.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-4\\studentmanager\\studentmanager\\studentmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{894A9B7B-AF83-275E-117A-A6BC0040563E}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{894A9B7B-AF83-275E-117A-A6BC0040563E}|StudentManager\\StudentManager.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-4\\studentmanager\\studentmanager\\studentmanager\\globalfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894A9B7B-AF83-275E-117A-A6BC0040563E}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\globalfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894A9B7B-AF83-275E-117A-A6BC0040563E}|StudentManager\\StudentManager.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-4\\studentmanager\\studentmanager\\studentmanager\\enums\\options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894A9B7B-AF83-275E-117A-A6BC0040563E}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\enums\\options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +26,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "GlobalFile.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-4\\StudentManager\\StudentManager\\StudentManager\\GlobalFile.cs",
+              "RelativeDocumentMoniker": "StudentManager\\GlobalFile.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-4\\StudentManager\\StudentManager\\StudentManager\\GlobalFile.cs",
+              "RelativeToolTip": "StudentManager\\GlobalFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:57:51.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-4\\StudentManager\\StudentManager\\StudentManager\\Program.cs",
               "RelativeDocumentMoniker": "StudentManager\\Program.cs",
               "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-4\\StudentManager\\StudentManager\\StudentManager\\Program.cs",
               "RelativeToolTip": "StudentManager\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA7wBsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T05:48:48.969Z",
               "EditorCaption": ""
@@ -47,21 +63,19 @@
               "RelativeToolTip": "StudentManager\\Model\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T05:48:46.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T05:48:46.615Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Options.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-4\\StudentManager\\StudentManager\\StudentManager\\Enums\\Options.cs",
               "RelativeDocumentMoniker": "StudentManager\\Enums\\Options.cs",
               "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-4\\StudentManager\\StudentManager\\StudentManager\\Enums\\Options.cs",
               "RelativeToolTip": "StudentManager\\Enums\\Options.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T05:48:44.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T05:48:44.476Z"
             }
           ]
         }

@@ -1,6 +1,4 @@
-﻿using DIP.Interfaces;
-
-namespace DIP.MessageTypes;
+﻿namespace DIP.MessageTypes;
 
 // EmailSender is a low level module
 internal class EmailSender : IMessageSender

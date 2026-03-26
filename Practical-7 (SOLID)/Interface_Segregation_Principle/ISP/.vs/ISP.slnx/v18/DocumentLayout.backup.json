@@ -3,36 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D22D40E-FDB7-48A3-BD0E-A42D1D1E3DCD}|ISP\\ISP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\interface_segregation_principle\\isp\\isp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D22D40E-FDB7-48A3-BD0E-A42D1D1E3DCD}|ISP\\ISP.csproj|solutionrelative:isp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75D6F148-78FB-3D0B-CC12-64B2E77799BA}|ISP\\ISP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\interface_segregation_principle\\isp\\isp\\designations\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D6F148-78FB-3D0B-CC12-64B2E77799BA}|ISP\\ISP.csproj|solutionrelative:isp\\designations\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D22D40E-FDB7-48A3-BD0E-A42D1D1E3DCD}|ISP\\ISP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\interface_segregation_principle\\isp\\isp\\designations\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D22D40E-FDB7-48A3-BD0E-A42D1D1E3DCD}|ISP\\ISP.csproj|solutionrelative:isp\\designations\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75D6F148-78FB-3D0B-CC12-64B2E77799BA}|ISP\\ISP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\interface_segregation_principle\\isp\\isp\\designations\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D6F148-78FB-3D0B-CC12-64B2E77799BA}|ISP\\ISP.csproj|solutionrelative:isp\\designations\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D22D40E-FDB7-48A3-BD0E-A42D1D1E3DCD}|ISP\\ISP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\interface_segregation_principle\\isp\\isp\\designations\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D22D40E-FDB7-48A3-BD0E-A42D1D1E3DCD}|ISP\\ISP.csproj|solutionrelative:isp\\designations\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75D6F148-78FB-3D0B-CC12-64B2E77799BA}|ISP\\ISP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\interface_segregation_principle\\isp\\isp\\designations\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D6F148-78FB-3D0B-CC12-64B2E77799BA}|ISP\\ISP.csproj|solutionrelative:isp\\designations\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D22D40E-FDB7-48A3-BD0E-A42D1D1E3DCD}|ISP\\ISP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\interface_segregation_principle\\isp\\isp\\designations\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D22D40E-FDB7-48A3-BD0E-A42D1D1E3DCD}|ISP\\ISP.csproj|solutionrelative:isp\\designations\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75D6F148-78FB-3D0B-CC12-64B2E77799BA}|ISP\\ISP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\interface_segregation_principle\\isp\\isp\\interfaces\\iborrowreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D6F148-78FB-3D0B-CC12-64B2E77799BA}|ISP\\ISP.csproj|solutionrelative:isp\\interfaces\\iborrowreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D22D40E-FDB7-48A3-BD0E-A42D1D1E3DCD}|ISP\\ISP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\interface_segregation_principle\\isp\\isp\\interfaces\\isearchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D22D40E-FDB7-48A3-BD0E-A42D1D1E3DCD}|ISP\\ISP.csproj|solutionrelative:isp\\interfaces\\isearchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75D6F148-78FB-3D0B-CC12-64B2E77799BA}|ISP\\ISP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\interface_segregation_principle\\isp\\isp\\interfaces\\imanageinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D6F148-78FB-3D0B-CC12-64B2E77799BA}|ISP\\ISP.csproj|solutionrelative:isp\\interfaces\\imanageinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D22D40E-FDB7-48A3-BD0E-A42D1D1E3DCD}|ISP\\ISP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\interface_segregation_principle\\isp\\isp\\interfaces\\imanageinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D22D40E-FDB7-48A3-BD0E-A42D1D1E3DCD}|ISP\\ISP.csproj|solutionrelative:isp\\interfaces\\imanageinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75D6F148-78FB-3D0B-CC12-64B2E77799BA}|ISP\\ISP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\interface_segregation_principle\\isp\\isp\\interfaces\\isearchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D6F148-78FB-3D0B-CC12-64B2E77799BA}|ISP\\ISP.csproj|solutionrelative:isp\\interfaces\\isearchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D22D40E-FDB7-48A3-BD0E-A42D1D1E3DCD}|ISP\\ISP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\interface_segregation_principle\\isp\\isp\\interfaces\\iborrowreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D22D40E-FDB7-48A3-BD0E-A42D1D1E3DCD}|ISP\\ISP.csproj|solutionrelative:isp\\interfaces\\iborrowreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75D6F148-78FB-3D0B-CC12-64B2E77799BA}|ISP\\ISP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\interface_segregation_principle\\isp\\isp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D6F148-78FB-3D0B-CC12-64B2E77799BA}|ISP\\ISP.csproj|solutionrelative:isp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D22D40E-FDB7-48A3-BD0E-A42D1D1E3DCD}|ISP\\ISP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\interface_segregation_principle\\isp\\isp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D22D40E-FDB7-48A3-BD0E-A42D1D1E3DCD}|ISP\\ISP.csproj|solutionrelative:isp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75D6F148-78FB-3D0B-CC12-64B2E77799BA}|ISP\\ISP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\interface_segregation_principle\\isp\\isp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D6F148-78FB-3D0B-CC12-64B2E77799BA}|ISP\\ISP.csproj|solutionrelative:isp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D6F148-78FB-3D0B-CC12-64B2E77799BA}|ISP\\ISP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\interface_segregation_principle\\isp\\isp\\globalfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D6F148-78FB-3D0B-CC12-64B2E77799BA}|ISP\\ISP.csproj|solutionrelative:isp\\globalfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,107 +50,112 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ISearchable.cs",
-              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\ISP\\Interfaces\\ISearchable.cs",
-              "RelativeDocumentMoniker": "ISP\\Interfaces\\ISearchable.cs",
-              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\ISP\\Interfaces\\ISearchable.cs",
-              "RelativeToolTip": "ISP\\Interfaces\\ISearchable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "GlobalFile.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\ISP\\GlobalFile.cs",
+              "RelativeDocumentMoniker": "ISP\\GlobalFile.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\ISP\\GlobalFile.cs",
+              "RelativeToolTip": "ISP\\GlobalFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:15:21.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T08:48:26.26Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "IBorrowReturn.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\ISP\\Interfaces\\IBorrowReturn.cs",
+              "RelativeDocumentMoniker": "ISP\\Interfaces\\IBorrowReturn.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\ISP\\Interfaces\\IBorrowReturn.cs",
+              "RelativeToolTip": "ISP\\Interfaces\\IBorrowReturn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:14:41.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\ISP\\Designations\\Member.cs",
+              "RelativeDocumentMoniker": "ISP\\Designations\\Member.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\ISP\\Designations\\Member.cs",
+              "RelativeToolTip": "ISP\\Designations\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:18:53.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\ISP\\Designations\\Librarian.cs",
+              "RelativeDocumentMoniker": "ISP\\Designations\\Librarian.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\ISP\\Designations\\Librarian.cs",
+              "RelativeToolTip": "ISP\\Designations\\Librarian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:18:42.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Guest.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\ISP\\Designations\\Guest.cs",
               "RelativeDocumentMoniker": "ISP\\Designations\\Guest.cs",
               "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\ISP\\Designations\\Guest.cs",
               "RelativeToolTip": "ISP\\Designations\\Guest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T07:18:31.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Librarian.cs",
-              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\ISP\\Designations\\Librarian.cs",
-              "RelativeDocumentMoniker": "ISP\\Designations\\Librarian.cs",
-              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\ISP\\Designations\\Librarian.cs",
-              "RelativeToolTip": "ISP\\Designations\\Librarian.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowAkAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:18:42.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Member.cs",
-              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\ISP\\Designations\\Member.cs",
-              "RelativeDocumentMoniker": "ISP\\Designations\\Member.cs",
-              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\ISP\\Designations\\Member.cs",
-              "RelativeToolTip": "ISP\\Designations\\Member.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:18:53.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\ISP\\Program.cs",
-              "RelativeDocumentMoniker": "ISP\\Program.cs",
-              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\ISP\\Program.cs",
-              "RelativeToolTip": "ISP\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:11:48.152Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "IManageInventory.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\ISP\\Interfaces\\IManageInventory.cs",
               "RelativeDocumentMoniker": "ISP\\Interfaces\\IManageInventory.cs",
               "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\ISP\\Interfaces\\IManageInventory.cs",
               "RelativeToolTip": "ISP\\Interfaces\\IManageInventory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:15:00.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T07:15:00.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISearchable.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\ISP\\Interfaces\\ISearchable.cs",
+              "RelativeDocumentMoniker": "ISP\\Interfaces\\ISearchable.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\ISP\\Interfaces\\ISearchable.cs",
+              "RelativeToolTip": "ISP\\Interfaces\\ISearchable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:15:21.482Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IBorrowReturn.cs",
-              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\ISP\\Interfaces\\IBorrowReturn.cs",
-              "RelativeDocumentMoniker": "ISP\\Interfaces\\IBorrowReturn.cs",
-              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\ISP\\Interfaces\\IBorrowReturn.cs",
-              "RelativeToolTip": "ISP\\Interfaces\\IBorrowReturn.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:14:41.825Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\ISP\\Models\\Book.cs",
               "RelativeDocumentMoniker": "ISP\\Models\\Book.cs",
               "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\ISP\\Models\\Book.cs",
               "RelativeToolTip": "ISP\\Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:16:53.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T07:16:53.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\ISP\\Program.cs",
+              "RelativeDocumentMoniker": "ISP\\Program.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\ISP\\Program.cs",
+              "RelativeToolTip": "ISP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:11:48.152Z"
             }
           ]
         }

@@ -12,3 +12,4 @@ C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-7 (SOLID)\Dependency
 C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-7 (SOLID)\Dependency_Inversion_Principle\DIP\DIP\obj\Debug\net8.0\DIP.pdb
 C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-7 (SOLID)\Dependency_Inversion_Principle\DIP\DIP\obj\Debug\net8.0\DIP.genruntimeconfig.cache
 C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-7 (SOLID)\Dependency_Inversion_Principle\DIP\DIP\obj\Debug\net8.0\ref\DIP.dll
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-7 (SOLID)\Dependency_Inversion_Principle\DIP\DIP\obj\Debug\net8.0\DIP.sourcelink.json

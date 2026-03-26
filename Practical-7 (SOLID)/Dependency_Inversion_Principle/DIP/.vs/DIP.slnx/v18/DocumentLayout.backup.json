@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Dependency_Inversion_Principle\\DIP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95076484-2C88-4C78-8FB2-6E265B5EDE4F}|DIP\\DIP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\dependency_inversion_principle\\dip\\dip\\interfaces\\imessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95076484-2C88-4C78-8FB2-6E265B5EDE4F}|DIP\\DIP.csproj|solutionrelative:dip\\interfaces\\imessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C69C9B4A-65FC-1723-7718-5A099DBB1426}|DIP\\DIP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\dependency_inversion_principle\\dip\\dip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69C9B4A-65FC-1723-7718-5A099DBB1426}|DIP\\DIP.csproj|solutionrelative:dip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95076484-2C88-4C78-8FB2-6E265B5EDE4F}|DIP\\DIP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\dependency_inversion_principle\\dip\\dip\\messagetypes\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95076484-2C88-4C78-8FB2-6E265B5EDE4F}|DIP\\DIP.csproj|solutionrelative:dip\\messagetypes\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C69C9B4A-65FC-1723-7718-5A099DBB1426}|DIP\\DIP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\dependency_inversion_principle\\dip\\dip\\globalfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69C9B4A-65FC-1723-7718-5A099DBB1426}|DIP\\DIP.csproj|solutionrelative:dip\\globalfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95076484-2C88-4C78-8FB2-6E265B5EDE4F}|DIP\\DIP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\dependency_inversion_principle\\dip\\dip\\messagetypes\\smssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95076484-2C88-4C78-8FB2-6E265B5EDE4F}|DIP\\DIP.csproj|solutionrelative:dip\\messagetypes\\smssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C69C9B4A-65FC-1723-7718-5A099DBB1426}|DIP\\DIP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\dependency_inversion_principle\\dip\\dip\\service\\passwordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69C9B4A-65FC-1723-7718-5A099DBB1426}|DIP\\DIP.csproj|solutionrelative:dip\\service\\passwordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95076484-2C88-4C78-8FB2-6E265B5EDE4F}|DIP\\DIP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\dependency_inversion_principle\\dip\\dip\\service\\passwordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95076484-2C88-4C78-8FB2-6E265B5EDE4F}|DIP\\DIP.csproj|solutionrelative:dip\\service\\passwordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C69C9B4A-65FC-1723-7718-5A099DBB1426}|DIP\\DIP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\dependency_inversion_principle\\dip\\dip\\messagetypes\\smssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69C9B4A-65FC-1723-7718-5A099DBB1426}|DIP\\DIP.csproj|solutionrelative:dip\\messagetypes\\smssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95076484-2C88-4C78-8FB2-6E265B5EDE4F}|DIP\\DIP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\dependency_inversion_principle\\dip\\dip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95076484-2C88-4C78-8FB2-6E265B5EDE4F}|DIP\\DIP.csproj|solutionrelative:dip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C69C9B4A-65FC-1723-7718-5A099DBB1426}|DIP\\DIP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\dependency_inversion_principle\\dip\\dip\\messagetypes\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69C9B4A-65FC-1723-7718-5A099DBB1426}|DIP\\DIP.csproj|solutionrelative:dip\\messagetypes\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69C9B4A-65FC-1723-7718-5A099DBB1426}|DIP\\DIP.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-7 (solid)\\dependency_inversion_principle\\dip\\dip\\interfaces\\imessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69C9B4A-65FC-1723-7718-5A099DBB1426}|DIP\\DIP.csproj|solutionrelative:dip\\interfaces\\imessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,50 +34,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "GlobalFile.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Dependency_Inversion_Principle\\DIP\\DIP\\GlobalFile.cs",
+              "RelativeDocumentMoniker": "DIP\\GlobalFile.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Dependency_Inversion_Principle\\DIP\\DIP\\GlobalFile.cs",
+              "RelativeToolTip": "DIP\\GlobalFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:52:12.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PasswordManager.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Dependency_Inversion_Principle\\DIP\\DIP\\Service\\PasswordManager.cs",
               "RelativeDocumentMoniker": "DIP\\Service\\PasswordManager.cs",
               "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Dependency_Inversion_Principle\\DIP\\DIP\\Service\\PasswordManager.cs",
               "RelativeToolTip": "DIP\\Service\\PasswordManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:27:48.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T07:27:48.933Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SMSSender.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Dependency_Inversion_Principle\\DIP\\DIP\\MessageTypes\\SMSSender.cs",
               "RelativeDocumentMoniker": "DIP\\MessageTypes\\SMSSender.cs",
               "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Dependency_Inversion_Principle\\DIP\\DIP\\MessageTypes\\SMSSender.cs",
               "RelativeToolTip": "DIP\\MessageTypes\\SMSSender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:26:49.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T07:26:49.882Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "EmailSender.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Dependency_Inversion_Principle\\DIP\\DIP\\MessageTypes\\EmailSender.cs",
               "RelativeDocumentMoniker": "DIP\\MessageTypes\\EmailSender.cs",
               "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Dependency_Inversion_Principle\\DIP\\DIP\\MessageTypes\\EmailSender.cs",
               "RelativeToolTip": "DIP\\MessageTypes\\EmailSender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:26:40.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T07:26:40.644Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "IMessageSender.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Dependency_Inversion_Principle\\DIP\\DIP\\Interfaces\\IMessageSender.cs",
               "RelativeDocumentMoniker": "DIP\\Interfaces\\IMessageSender.cs",
@@ -81,18 +94,17 @@
               "RelativeToolTip": "DIP\\Interfaces\\IMessageSender.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:25:56.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T07:25:56.167Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Dependency_Inversion_Principle\\DIP\\DIP\\Program.cs",
               "RelativeDocumentMoniker": "DIP\\Program.cs",
               "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Dependency_Inversion_Principle\\DIP\\DIP\\Program.cs",
               "RelativeToolTip": "DIP\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T07:23:56.05Z",
               "EditorCaption": ""

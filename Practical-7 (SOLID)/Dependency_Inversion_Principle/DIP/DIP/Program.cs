@@ -1,8 +1,5 @@
-﻿using DIP.Interfaces;
-using DIP.MessageTypes;
-using DIP.Service;
+﻿namespace DIP;
 
-namespace DIP;
 class InitialClass
 {
     public static void Main(String[] args)

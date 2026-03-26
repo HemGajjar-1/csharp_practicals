@@ -1,9 +1,4 @@
-﻿using OCP.Enums;
-using OCP.Models;
-using OCP.Product_Types;
-using OCP.Services;
-
-namespace OCP;
+﻿namespace OCP;
 
 class InitialClass
 {

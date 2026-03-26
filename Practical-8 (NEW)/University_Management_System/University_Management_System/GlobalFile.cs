@@ -1,0 +1,3 @@
+﻿global using University_Management_System.Services;
+global using University_Management_System.MyClasses;
+global using University_Management_System.Interfaces;

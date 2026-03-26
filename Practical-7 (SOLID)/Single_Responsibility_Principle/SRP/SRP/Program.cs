@@ -1,7 +1,4 @@
-﻿using SRP.MyClasses;
-using SRP.Services;
-
-namespace SPR;
+﻿namespace SPR;
 
 public class InitialClass
 {

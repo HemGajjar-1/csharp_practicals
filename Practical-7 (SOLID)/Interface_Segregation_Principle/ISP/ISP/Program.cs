@@ -1,7 +1,4 @@
-﻿using ISP.Designations;
-using ISP.Models;
-
-namespace ISP;
+﻿namespace ISP;
 class InitialClass
 {
     public static void Main(String[] args)

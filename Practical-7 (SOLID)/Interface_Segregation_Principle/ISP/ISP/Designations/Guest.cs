@@ -1,6 +1,4 @@
-﻿using ISP.Interfaces;
-
-namespace ISP.Designations;
+﻿namespace ISP.Designations;
 
 internal class Guest : ISearchable
 {

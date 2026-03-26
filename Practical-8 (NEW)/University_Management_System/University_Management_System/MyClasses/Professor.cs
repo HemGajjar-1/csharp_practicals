@@ -1,6 +1,4 @@
-﻿using University_Management_System.Interfaces;
-
-namespace University_Management_System.MyClasses;
+﻿namespace University_Management_System.MyClasses;
 
 //This is another inherited class
 internal class Professor : Person, IPayable

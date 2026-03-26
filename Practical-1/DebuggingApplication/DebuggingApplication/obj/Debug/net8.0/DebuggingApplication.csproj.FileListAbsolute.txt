@@ -12,3 +12,4 @@ C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-1\DebuggingApplicati
 C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-1\DebuggingApplication\DebuggingApplication\obj\Debug\net8.0\DebuggingApplication.pdb
 C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-1\DebuggingApplication\DebuggingApplication\obj\Debug\net8.0\DebuggingApplication.genruntimeconfig.cache
 C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-1\DebuggingApplication\DebuggingApplication\obj\Debug\net8.0\ref\DebuggingApplication.dll
+C:\Users\hem.gajjar\source\repos\Final_Practicals\Practical-1\DebuggingApplication\DebuggingApplication\obj\Debug\net8.0\DebuggingApplication.sourcelink.json

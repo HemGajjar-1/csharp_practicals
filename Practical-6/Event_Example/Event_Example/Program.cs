@@ -1,6 +1,4 @@
-﻿using Event_Example.BusinessLogic;
-
-namespace Event_Example;
+﻿namespace Event_Example;
 
 class InitialClass
 {

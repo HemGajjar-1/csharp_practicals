@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-3\\InheritanceDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3648F6E-F30D-F7B0-0DDF-D3D89350BFAC}|InheritanceDemo\\InheritanceDemo.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-3\\inheritancedemo\\inheritancedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3648F6E-F30D-F7B0-0DDF-D3D89350BFAC}|InheritanceDemo\\InheritanceDemo.csproj|solutionrelative:inheritancedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3648F6E-F30D-F7B0-0DDF-D3D89350BFAC}|InheritanceDemo\\InheritanceDemo.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-3\\inheritancedemo\\inheritancedemo\\myclasses\\sponsor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3648F6E-F30D-F7B0-0DDF-D3D89350BFAC}|InheritanceDemo\\InheritanceDemo.csproj|solutionrelative:inheritancedemo\\myclasses\\sponsor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3648F6E-F30D-F7B0-0DDF-D3D89350BFAC}|InheritanceDemo\\InheritanceDemo.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-3\\inheritancedemo\\inheritancedemo\\myclasses\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3648F6E-F30D-F7B0-0DDF-D3D89350BFAC}|InheritanceDemo\\InheritanceDemo.csproj|solutionrelative:inheritancedemo\\myclasses\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3648F6E-F30D-F7B0-0DDF-D3D89350BFAC}|InheritanceDemo\\InheritanceDemo.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-3\\inheritancedemo\\inheritancedemo\\myclasses\\sponsor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3648F6E-F30D-F7B0-0DDF-D3D89350BFAC}|InheritanceDemo\\InheritanceDemo.csproj|solutionrelative:inheritancedemo\\myclasses\\sponsor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3648F6E-F30D-F7B0-0DDF-D3D89350BFAC}|InheritanceDemo\\InheritanceDemo.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-3\\inheritancedemo\\inheritancedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3648F6E-F30D-F7B0-0DDF-D3D89350BFAC}|InheritanceDemo\\InheritanceDemo.csproj|solutionrelative:inheritancedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3648F6E-F30D-F7B0-0DDF-D3D89350BFAC}|InheritanceDemo\\InheritanceDemo.csproj|c:\\users\\hem.gajjar\\source\\repos\\final_practicals\\practical-3\\inheritancedemo\\inheritancedemo\\globalfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3648F6E-F30D-F7B0-0DDF-D3D89350BFAC}|InheritanceDemo\\InheritanceDemo.csproj|solutionrelative:inheritancedemo\\globalfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,20 +26,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "GlobalFile.cs",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-3\\InheritanceDemo\\InheritanceDemo\\GlobalFile.cs",
+              "RelativeDocumentMoniker": "InheritanceDemo\\GlobalFile.cs",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-3\\InheritanceDemo\\InheritanceDemo\\GlobalFile.cs",
+              "RelativeToolTip": "InheritanceDemo\\GlobalFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T09:04:28.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-3\\InheritanceDemo\\InheritanceDemo\\Program.cs",
               "RelativeDocumentMoniker": "InheritanceDemo\\Program.cs",
               "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-3\\InheritanceDemo\\InheritanceDemo\\Program.cs",
               "RelativeToolTip": "InheritanceDemo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T05:26:38.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T05:26:38.838Z"
             },
             {
               "$type": "Document",
@@ -45,21 +60,22 @@
               "RelativeDocumentMoniker": "InheritanceDemo\\MyClasses\\Team.cs",
               "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-3\\InheritanceDemo\\InheritanceDemo\\MyClasses\\Team.cs",
               "RelativeToolTip": "InheritanceDemo\\MyClasses\\Team.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T05:26:37.963Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Sponsor.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-3\\InheritanceDemo\\InheritanceDemo\\MyClasses\\Sponsor.cs",
               "RelativeDocumentMoniker": "InheritanceDemo\\MyClasses\\Sponsor.cs",
               "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-3\\InheritanceDemo\\InheritanceDemo\\MyClasses\\Sponsor.cs",
               "RelativeToolTip": "InheritanceDemo\\MyClasses\\Sponsor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T05:26:36.548Z"
+              "WhenOpened": "2026-03-26T05:26:36.548Z",
+              "EditorCaption": ""
             }
           ]
         }

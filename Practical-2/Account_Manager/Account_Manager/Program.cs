@@ -1,5 +1,4 @@
-﻿using Account_Manager.Models;
-namespace Account_Manager;
+﻿namespace Account_Manager;
 
 class InitialClass{
     public static void Main(String[] args)

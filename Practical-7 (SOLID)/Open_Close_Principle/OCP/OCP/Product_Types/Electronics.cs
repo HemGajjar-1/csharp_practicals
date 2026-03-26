@@ -1,7 +1,4 @@
-﻿using OCP.Interface;
-using OCP.Models;
-
-namespace OCP.Product_Types;
+﻿namespace OCP.Product_Types;
 
 internal class Electronics : TaxSystem
 {

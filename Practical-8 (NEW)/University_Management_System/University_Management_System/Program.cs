@@ -1,7 +1,4 @@
-﻿using University_Management_System.MyClasses;
-using University_Management_System.Services;
-
-namespace UniversityManagementSystem;
+﻿namespace University_Management_System;
 
 public class InitialClass
 {
