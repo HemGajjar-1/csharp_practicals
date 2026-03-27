@@ -1,6 +1,6 @@
 ﻿namespace OCP.Interface;
 
-internal interface TaxSystem
+internal interface ITaxSystem
 {
     double CalculateTax(Product p);
 }

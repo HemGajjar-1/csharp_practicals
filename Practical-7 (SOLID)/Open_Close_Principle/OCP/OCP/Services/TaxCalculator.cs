@@ -2,8 +2,8 @@
 
 internal class TaxCalculator
 {
-    private TaxSystem _taxsystem;
-    public TaxCalculator(TaxSystem ts)
+    private ITaxSystem _taxsystem;
+    public TaxCalculator(ITaxSystem ts)
     {
         _taxsystem = ts;
     }

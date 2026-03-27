@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\ISP\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practical-7\\ISP\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -154,11 +162,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-26T09:50:19.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-26T09:47:21.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-8\\University_Management_System\\University_Management_System\\Program.cs",
               "RelativeDocumentMoniker": "Practical-8\\University_Management_System\\University_Management_System\\Program.cs",
@@ -166,12 +200,11 @@
               "RelativeToolTip": "Practical-8\\University_Management_System\\University_Management_System\\Program.cs",
               "ViewState": "AgIAAG8AAAAAAAAAAAAAAIIAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:36:54.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T07:36:54.56Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\DIP\\Program.cs",
               "RelativeDocumentMoniker": "Practical-7\\DIP\\Program.cs",
@@ -179,12 +212,11 @@
               "RelativeToolTip": "Practical-7\\DIP\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:28:17.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T07:28:17.233Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "PasswordManager.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\DIP\\Service\\PasswordManager.cs",
               "RelativeDocumentMoniker": "Practical-7\\DIP\\Service\\PasswordManager.cs",
@@ -192,12 +224,11 @@
               "RelativeToolTip": "Practical-7\\DIP\\Service\\PasswordManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:27:53.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T07:27:53.926Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "SMSSender.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\DIP\\MessageTypes\\SMSSender.cs",
               "RelativeDocumentMoniker": "Practical-7\\DIP\\MessageTypes\\SMSSender.cs",
@@ -205,12 +236,11 @@
               "RelativeToolTip": "Practical-7\\DIP\\MessageTypes\\SMSSender.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:27:30.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T07:27:30.017Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "EmailSender.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\DIP\\MessageTypes\\EmailSender.cs",
               "RelativeDocumentMoniker": "Practical-7\\DIP\\MessageTypes\\EmailSender.cs",
@@ -218,12 +248,11 @@
               "RelativeToolTip": "Practical-7\\DIP\\MessageTypes\\EmailSender.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:26:55.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T07:26:55.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "IMessageSender.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\DIP\\Interfaces\\IMessageSender.cs",
               "RelativeDocumentMoniker": "Practical-7\\DIP\\Interfaces\\IMessageSender.cs",
@@ -231,25 +260,22 @@
               "RelativeToolTip": "Practical-7\\DIP\\Interfaces\\IMessageSender.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:26:12.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T07:26:12.167Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\ISP\\Program.cs",
               "RelativeDocumentMoniker": "Practical-7\\ISP\\Program.cs",
               "ToolTip": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\ISP\\Program.cs",
               "RelativeToolTip": "Practical-7\\ISP\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:20:05.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T07:20:05.212Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Member.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\ISP\\Designations\\Member.cs",
               "RelativeDocumentMoniker": "Practical-7\\ISP\\Designations\\Member.cs",
@@ -257,12 +283,11 @@
               "RelativeToolTip": "Practical-7\\ISP\\Designations\\Member.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:19:36.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T07:19:36.068Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Librarian.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\ISP\\Designations\\Librarian.cs",
               "RelativeDocumentMoniker": "Practical-7\\ISP\\Designations\\Librarian.cs",
@@ -270,12 +295,11 @@
               "RelativeToolTip": "Practical-7\\ISP\\Designations\\Librarian.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:19:25.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T07:19:25.419Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Guest.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\ISP\\Designations\\Guest.cs",
               "RelativeDocumentMoniker": "Practical-7\\ISP\\Designations\\Guest.cs",
@@ -283,12 +307,11 @@
               "RelativeToolTip": "Practical-7\\ISP\\Designations\\Guest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:19:16.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T07:19:16.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\ISP\\Models\\Book.cs",
               "RelativeDocumentMoniker": "Practical-7\\ISP\\Models\\Book.cs",
@@ -296,12 +319,11 @@
               "RelativeToolTip": "Practical-7\\ISP\\Models\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:17:03.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T07:17:03.499Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "IManageInventory.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\ISP\\Interfaces\\IManageInventory.cs",
               "RelativeDocumentMoniker": "Practical-7\\ISP\\Interfaces\\IManageInventory.cs",
@@ -309,12 +331,11 @@
               "RelativeToolTip": "Practical-7\\ISP\\Interfaces\\IManageInventory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:14:44.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T07:14:44.309Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "IBorrowReturn.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\ISP\\Interfaces\\IBorrowReturn.cs",
               "RelativeDocumentMoniker": "Practical-7\\ISP\\Interfaces\\IBorrowReturn.cs",
@@ -322,12 +343,11 @@
               "RelativeToolTip": "Practical-7\\ISP\\Interfaces\\IBorrowReturn.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:15:36.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T07:15:36.819Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "ISearchable.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\ISP\\Interfaces\\ISearchable.cs",
               "RelativeDocumentMoniker": "Practical-7\\ISP\\Interfaces\\ISearchable.cs",
@@ -335,12 +355,11 @@
               "RelativeToolTip": "Practical-7\\ISP\\Interfaces\\ISearchable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:16:20.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T07:16:20.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\ISP\\Program.cs",
               "RelativeDocumentMoniker": "Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\ISP\\Program.cs",
@@ -348,12 +367,11 @@
               "RelativeToolTip": "Practical-7 (SOLID)\\Interface_Segregation_Principle\\ISP\\ISP\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:11:59.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T07:11:59.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Open_Close_Principle\\OCP\\OCP\\Program.cs",
               "RelativeDocumentMoniker": "Practical-7 (SOLID)\\Open_Close_Principle\\OCP\\OCP\\Program.cs",
@@ -361,12 +379,11 @@
               "RelativeToolTip": "Practical-7 (SOLID)\\Open_Close_Principle\\OCP\\OCP\\Program.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:05:03.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T07:05:03.671Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "TaxCalculator.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7 (SOLID)\\Open_Close_Principle\\OCP\\OCP\\Services\\TaxCalculator.cs",
               "RelativeDocumentMoniker": "Practical-7 (SOLID)\\Open_Close_Principle\\OCP\\OCP\\Services\\TaxCalculator.cs",
@@ -374,12 +391,11 @@
               "RelativeToolTip": "Practical-7 (SOLID)\\Open_Close_Principle\\OCP\\OCP\\Services\\TaxCalculator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:05:53.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T07:05:53.533Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\LSP\\Program.cs",
               "RelativeDocumentMoniker": "Practical-7\\LSP\\Program.cs",
@@ -387,12 +403,11 @@
               "RelativeToolTip": "Practical-7\\LSP\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:03:14.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T07:03:14.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "RefundService.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\LSP\\Services\\RefundService.cs",
               "RelativeDocumentMoniker": "Practical-7\\LSP\\Services\\RefundService.cs",
@@ -400,12 +415,11 @@
               "RelativeToolTip": "Practical-7\\LSP\\Services\\RefundService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:02:58.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T07:02:58.956Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "CheckoutService.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\LSP\\Services\\CheckoutService.cs",
               "RelativeDocumentMoniker": "Practical-7\\LSP\\Services\\CheckoutService.cs",
@@ -413,12 +427,11 @@
               "RelativeToolTip": "Practical-7\\LSP\\Services\\CheckoutService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T07:02:26.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T07:02:26.206Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "PromoCodeProcessor.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\LSP\\PaymentTypes\\PromoCodeProcessor.cs",
               "RelativeDocumentMoniker": "Practical-7\\LSP\\PaymentTypes\\PromoCodeProcessor.cs",
@@ -426,12 +439,11 @@
               "RelativeToolTip": "Practical-7\\LSP\\PaymentTypes\\PromoCodeProcessor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T06:57:27.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T06:57:27.741Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "PayPalProcessor.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\LSP\\PaymentTypes\\PayPalProcessor.cs",
               "RelativeDocumentMoniker": "Practical-7\\LSP\\PaymentTypes\\PayPalProcessor.cs",
@@ -439,12 +451,11 @@
               "RelativeToolTip": "Practical-7\\LSP\\PaymentTypes\\PayPalProcessor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T06:57:19.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T06:57:19.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "CreditCardProcessor.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\LSP\\PaymentTypes\\CreditCardProcessor.cs",
               "RelativeDocumentMoniker": "Practical-7\\LSP\\PaymentTypes\\CreditCardProcessor.cs",
@@ -452,12 +463,11 @@
               "RelativeToolTip": "Practical-7\\LSP\\PaymentTypes\\CreditCardProcessor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T06:56:54.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T06:56:54.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "IRefundable.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\LSP\\Interfaces\\IRefundable.cs",
               "RelativeDocumentMoniker": "Practical-7\\LSP\\Interfaces\\IRefundable.cs",
@@ -465,12 +475,11 @@
               "RelativeToolTip": "Practical-7\\LSP\\Interfaces\\IRefundable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T06:55:23.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T06:55:23.124Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "IChargeable.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\LSP\\Interfaces\\IChargeable.cs",
               "RelativeDocumentMoniker": "Practical-7\\LSP\\Interfaces\\IChargeable.cs",
@@ -478,12 +487,11 @@
               "RelativeToolTip": "Practical-7\\LSP\\Interfaces\\IChargeable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T06:54:45.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T06:54:45.158Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "TaxCalculator.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\OCP2\\Services\\TaxCalculator.cs",
               "RelativeDocumentMoniker": "Practical-7\\OCP2\\Services\\TaxCalculator.cs",
@@ -491,12 +499,11 @@
               "RelativeToolTip": "Practical-7\\OCP2\\Services\\TaxCalculator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T06:48:13.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T06:48:13.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "Grocery.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\OCP2\\Product_Types\\Grocery.cs",
               "RelativeDocumentMoniker": "Practical-7\\OCP2\\Product_Types\\Grocery.cs",
@@ -504,12 +511,11 @@
               "RelativeToolTip": "Practical-7\\OCP2\\Product_Types\\Grocery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T06:45:36.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T06:45:36.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\OCP2\\Program.cs",
               "RelativeDocumentMoniker": "Practical-7\\OCP2\\Program.cs",
@@ -517,12 +523,11 @@
               "RelativeToolTip": "Practical-7\\OCP2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T06:09:08.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T06:09:08.29Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "Electronics.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\OCP2\\Product_Types\\Electronics.cs",
               "RelativeDocumentMoniker": "Practical-7\\OCP2\\Product_Types\\Electronics.cs",
@@ -530,12 +535,11 @@
               "RelativeToolTip": "Practical-7\\OCP2\\Product_Types\\Electronics.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T06:45:23.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T06:45:23.37Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "Clothings.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\OCP2\\Product_Types\\Clothings.cs",
               "RelativeDocumentMoniker": "Practical-7\\OCP2\\Product_Types\\Clothings.cs",
@@ -543,12 +547,11 @@
               "RelativeToolTip": "Practical-7\\OCP2\\Product_Types\\Clothings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T06:43:52.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T06:43:52.252Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "product.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\OCP2\\Models\\product.cs",
               "RelativeDocumentMoniker": "Practical-7\\OCP2\\Models\\product.cs",
@@ -556,12 +559,11 @@
               "RelativeToolTip": "Practical-7\\OCP2\\Models\\product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T06:41:54.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T06:41:54.058Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "TaxSystem.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\OCP2\\Interface\\TaxSystem.cs",
               "RelativeDocumentMoniker": "Practical-7\\OCP2\\Interface\\TaxSystem.cs",
@@ -569,12 +571,11 @@
               "RelativeToolTip": "Practical-7\\OCP2\\Interface\\TaxSystem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T06:40:36.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T06:40:36.821Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "OCP2.csproj",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\OCP2\\OCP2.csproj",
               "RelativeDocumentMoniker": "Practical-7\\OCP2\\OCP2.csproj",
@@ -586,7 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-7\\SRP\\Program.cs",
               "RelativeDocumentMoniker": "Practical-7\\SRP\\Program.cs",
@@ -594,12 +595,11 @@
               "RelativeToolTip": "Practical-7\\SRP\\Program.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T05:57:59.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T05:57:59.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "Calculator.csproj",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-1\\Calculator\\Calculator\\Calculator.csproj",
               "RelativeDocumentMoniker": "Practical-1\\Calculator\\Calculator\\Calculator.csproj",
@@ -611,7 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hem.gajjar\\source\\repos\\Final_Practicals\\Practical-4\\StudentManager\\StudentManager\\StudentManager\\Program.cs",
               "RelativeDocumentMoniker": "Practical-4\\StudentManager\\StudentManager\\StudentManager\\Program.cs",
